@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "59FA4D68-5383-48AA-A837-047B48D971F9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F62A59B-B89B-4D41-A436-6337E4D5C537"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GuestPrayer-IpadOS/ViewModel/AnswerMV.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "AnswerViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5F62A59B-B89B-4D41-A436-6337E4D5C537 - 8012cd6b7c3bde4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuestPrayer_IpadOS.AnswerViewModel.deinit"
+                  moduleName = "GuestPrayer-IpadOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinfz/Development/AppleDev/NC-2/GuestPrayer-IpadOS/GuestPrayer-IpadOS/ViewModel/AnswerMV.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5F62A59B-B89B-4D41-A436-6337E4D5C537 - d1e525cf5f0992bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuestPrayer_IpadOS.AnswerViewModel.__deallocating_deinit"
+                  moduleName = "GuestPrayer-IpadOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinfz/Development/AppleDev/NC-2/GuestPrayer-IpadOS/GuestPrayer-IpadOS/ViewModel/AnswerMV.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5F62A59B-B89B-4D41-A436-6337E4D5C537 - ca81b70a33858009"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuestPrayer_IpadOS.AnswerViewModel.__allocating_init() -&gt; GuestPrayer_IpadOS.AnswerViewModel"
+                  moduleName = "GuestPrayer-IpadOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinfz/Development/AppleDev/NC-2/GuestPrayer-IpadOS/GuestPrayer-IpadOS/ViewModel/AnswerMV.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5F62A59B-B89B-4D41-A436-6337E4D5C537 - 833663ce0e453c9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuestPrayer_IpadOS.AnswerViewModel.init() -&gt; GuestPrayer_IpadOS.AnswerViewModel"
+                  moduleName = "GuestPrayer-IpadOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinfz/Development/AppleDev/NC-2/GuestPrayer-IpadOS/GuestPrayer-IpadOS/ViewModel/AnswerMV.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
